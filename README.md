@@ -1,4 +1,7 @@
+# Experiment 3
 # Correlation and regression for data analysis
+# DEVELOPED BY : KAVIYA D
+# REGISTER NUMBER : 212223040089
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
